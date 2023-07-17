@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=welingtonfonsec&label=Profile%20views&color=0e75b6&style=flat" alt="welingtonfonsec" /> </p>
 
-<h3 align="left">Selo de Certificação:</h3>
+<h3 align="left">Certification Seal:</h3>
 <p align="left">
 <a href="https://www.credly.com/badges/2951b5de-8130-48e0-8456-1d6cf8162a8f" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/975f4562-83b7-4652-9cd8-4490a68441be/image.png" alt="Google Data Analyst" height="150" width="150" /></a>
 </p>
